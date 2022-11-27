@@ -9,7 +9,7 @@
 .theme-dark .root-g14mjS {
     border: solid var(--borderBrightColor);
     border-width: var(--thickBorder);
-    background-color: transparent;
+    background-color: var(--piOSblack);
     box-shadow: 0 0 30px 0 var(--piOSgrey);
 }
 /* Footer */
